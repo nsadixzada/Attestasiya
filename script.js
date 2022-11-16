@@ -25,6 +25,6 @@ class Messenger extends Message{
     }
 }
 let info = new Messenger()
-info.send('ibrahim','Salam');
-info.send('Narmin','Salam');
+info.send('ibrahim,','salam');
+info.send('Narmin,','salam');
 info.show_history();

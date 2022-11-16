@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.main2{
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    display: flex;
+    margin-top: -335px;
+}
+  li{
+    list-style: none;
+    margin: 20px;
+    font-weight: 800;
+    font-size: 15px;
+    color: white;
+  }
+  .main3{
+    display: flex;
+    justify-content: flex-end;
+  }
+  .flex{
+    width: 1080px;
+    display: flex;
+    justify-content: flex-end;
+  }
+  .h22{
+    padding-top: 5px;
+    margin-left: 9px;
+    color: white;
+  }
+  .main{
+    width: 100%;
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    background-image: url(https://media.istockphoto.com/id/1368007300/video/sun-comes-out-from-behind-a-cloud-in-the-early-morning-above-the-clouds-flying-above-the.jpg?b=1&s=640x640&k=20&c=WedPUUgBFvgzvAMQDlrTQPMx_Ww6emScWM8I4C2hA4g=);
+  }
+  .h2{
+    text-align: center;
+    color: white;
+    font-size: 40px;
+    margin-top: -60px;
+  }
+  .background{
+    width: 100%;
+    height: 340px;
+    display: flex;
+    align-items: center;
+  }
